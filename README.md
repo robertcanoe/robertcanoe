@@ -1,3 +1,6 @@
+![encabezado_redesSociales](https://github.com/user-attachments/assets/a9f11687-a851-4c5f-b028-b58730d111bc)
+
+
 # Hola, soy Roberto Cano Estévez 👋
 
 Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web**. Me apasiona el mundo del desarrollo web, las tecnologías emergentes y la programación en general. Estoy aprendiendo y mejorando mis habilidades con cada proyecto y me gusta experimentar con nuevas herramientas y lenguajes de programación.
