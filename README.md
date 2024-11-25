@@ -13,7 +13,7 @@ Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web**. Me apasiona
 
 ## Proyectos destacados
 
-### [Mi primer proyecto] https://github.com/robertcanoe/password-generator
+### Mi primer proyecto -> [Proyecto generador de contraseñas](https://github.com/robertcanoe/password-generator)
 - **Descripción**: Este programa es un generador de contraseñas aleatorias en Python. Permite crear contraseñas seguras y personalizadas, dándole al usuario la opción de incluir mayúsculas, minúsculas, números y caracteres especiales. El usuario puede definir la longitud de la contraseña y el tipo de caracteres que desea incluir, lo que le permite generar contraseñas fuertes y difíciles de adivinar.
 - **Tecnologías**: Python
 
