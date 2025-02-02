@@ -6,10 +6,10 @@
 Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web**. Me apasiona el mundo del desarrollo web, las tecnologías emergentes y la programación en general. Estoy aprendiendo y mejorando mis habilidades con cada proyecto y me gusta experimentar con nuevas herramientas y lenguajes de programación.
 
 ## Habilidades
-- 🔧 **Lenguajes**: HTML, CSS, JavaScript, Python
-- 🌐 **Tecnologías Web**: React, Node.js, Express
+- 🔧 **Lenguajes**: HTML, CSS, JavaScript, Python, C#
+- 🌐 **Tecnologías Web**: React, Node.js, Django, .Net
 - ⚙️ **Herramientas**: Git, GitHub, Visual Studio Code, Pycharm
-- 🌱 **Estoy aprendiendo**: Bases de datos (SQL), Desarrollo de APIs
+- 🌱 **Estoy aprendiendo**: Bases de datos (SQL), Base de datos (noSql), Desarrollo de APIs
 
 ## Proyectos destacados
 
