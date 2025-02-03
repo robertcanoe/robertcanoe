@@ -20,7 +20,7 @@ Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web**. Me apasiona
 ## 📬 Contacto
 
 - 📧 Email: rcanoestevez@proton.me
-- 💼 LinkedIn: [linkedin.com/in/roberto-cano](https://www.linkedin.com/in/roberto-cano-estevez/)
+- 💼 LinkedIn: [URL LinkedIn](www.linkedin.com/in/robertocanoe)
 - 🐦 Twitter: [@robertcano__](https://x.com/robertcano__)
 
 ## 🚀 Estadísticas de GitHub
