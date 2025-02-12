@@ -18,7 +18,7 @@ Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web**. Me apasiona
 
 ### Proyecto de gestión de usuarios -> [User Management With MongoDB](https://github.com/robertcanoe/UserManagementWithMongoDB)
 - **Descripción**: Este proyecto permite gestionar usuarios utilizando una base de datos MongoDB.
-- **Tecnologías**: MongoDB, WinForms
+- **Tecnologías**: C#, .NET, MongoDB y WinForms
 
 ## 📬 Contacto
 
