@@ -4,11 +4,14 @@
 
 Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web**. Me apasiona el mundo del desarrollo web, las tecnologías emergentes y la programación en general.
 
-## Habilidades
-- 🔧 **Lenguajes**: HTML, CSS, JavaScript, Python, C#
-- 🌐 **Tecnologías Web**: React, Node.js, Django, .Net, SCADA, WinForms
-- ⚙️ **Herramientas**: Git, GitHub, Visual Studio Code/Community, Pycharm, Rider
-- 🌱 **Estoy aprendiendo**: Big Data, Inteligencia Artificial
+<div align="left">
+
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="proton.png" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/twitter/follow/robertcano__
+  " height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 ## Proyectos destacados
 
