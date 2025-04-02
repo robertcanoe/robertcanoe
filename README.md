@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="Roberto1.JPEG" alt="Roberto Cano Estévez" width="250" style="border-radius: 50%; object-fit: cover;">
+  <div style="width: 250px; height: 250px; overflow: hidden; border: 2px solid #ccc; border-radius: 50%;">
+    <img src="Roberto1.JPEG" alt="Roberto Cano Estévez" width="250" style="object-fit: cover;">
+  </div>
 </div>
 
 # Hola, soy Roberto Cano Estévez 👋
