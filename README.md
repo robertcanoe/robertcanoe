@@ -8,7 +8,7 @@ Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web**. Me apasiona
 
 - **Lenguajes:** Python, C#, HTML, CSS, JavaScript  
 - **Frameworks y tecnologías:** .NET, MongoDB, WinForms  
-- **Herramientas:** Git, GitHub, VS Code  
+- **Herramientas:** Git, GitHub, VSCode, Docker, AWS  
 - **Otros:** Resolución de problemas, trabajo en equipo, aprendizaje continuo  
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -47,6 +47,7 @@ Sistema SCADA para la monitorización y control de procesos de elaboración de c
 
 
 📧 **Email:** [rcanoestevez@proton.me](mailto:rcanoestevez@proton.me)
+
 ---
 
 ## 📊 Estadísticas de GitHub
