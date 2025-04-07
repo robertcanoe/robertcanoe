@@ -1,8 +1,8 @@
 # ¡Hola, soy Roberto Cano Estévez! 👋
 
-Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web** en Almodóvar del Río, Córdoba. Me apasiona el mundo del desarrollo web, las tecnologías emergentes y la programación en general. Estoy comprometido con aprender, crear proyectos innovadores y mejorar mis habilidades día a día.
+Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web**. Me apasiona el mundo del desarrollo web, las tecnologías emergentes y la programación en general. Estoy comprometido con aprender, crear proyectos innovadores y mejorar mis habilidades día a día.
 
-🌟 **Actualmente estoy aprendiendo:** Python, C#, .NET, MongoDB y tecnologías web como HTML, CSS y JavaScript.  
+🌟 **Actualmente estoy aprendiendo:** Python, C#, .NET, MongoDB, SQL, C++ y tecnologías web como HTML, CSS y JavaScript.  
 🎯 **Mis objetivos:** Convertirme en un desarrollador full-stack y contribuir a proyectos de código abierto.
 
 ---
@@ -14,13 +14,15 @@ Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web** en Almodóva
 - **Herramientas:** Git, GitHub, VS Code  
 - **Otros:** Resolución de problemas, trabajo en equipo, aprendizaje continuo  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ---
 
 ## 🌟 Proyectos destacados
@@ -33,23 +35,21 @@ Un generador de contraseñas aleatorias desarrollado en Python. Permite crear co
 Aplicación para gestionar usuarios con una base de datos MongoDB, diseñada con una interfaz intuitiva.  
 **Tecnologías:** C#, .NET, MongoDB, WinForms
 
+
+### 🍺 [BrewScada](https://github.com/robertcanoe/BrewScada)
+Sistema SCADA para la monitorización y control de procesos de elaboración de cerveza. Desarrollado en C# para proporcionar una interfaz de usuario intuitiva y robusta.  
+**Tecnologías:** C#, MongoDB, WinForms, .NET
+
 ---
 
 ## 📫 Conéctate conmigo
 
-¡Me encantaría charlar sobre tecnología, proyectos o cualquier idea que tengas!  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/robertcano_)
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/robertcano__)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertocanoe/)
-📧 **Email:** [rcanoestevez@proton.me](mailto:rcanoestevez@proton.me)
 
----
 
-## 🎉 Datos curiosos sobre mí
-
-- 🏞️ Soy de Almodóvar del Río, un lugar increíble en Córdoba, España.  
-- 🎮 Me gusta jugar videojuegos y explorar nuevas tecnologías en mi tiempo libre.  
-- 📚 Siempre estoy leyendo sobre programación y desarrollo web para seguir creciendo.
+📧 **Email:** ```rcanoestevez@proton.me```
 
 ---
 
@@ -62,4 +62,4 @@ Aplicación para gestionar usuarios con una base de datos MongoDB, diseñada con
 
 ---
 
-*¡Gracias por visitar mi perfil! Si quieres colaborar en algún proyecto o simplemente charlar, no dudes en contactarme! 😄*
+*¡Gracias por visitar mi perfil!
