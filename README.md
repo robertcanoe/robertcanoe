@@ -2,9 +2,6 @@
 
 Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web**. Me apasiona el mundo del desarrollo web, las tecnologías emergentes y la programación en general. Estoy comprometido con aprender, crear proyectos innovadores y mejorar mis habilidades día a día.
 
-🌟 **Actualmente estoy aprendiendo:** Python, C#, .NET, MongoDB, SQL, C++ y tecnologías web como HTML, CSS y JavaScript.  
-🎯 **Mis objetivos:** Convertirme en un desarrollador full-stack y contribuir a proyectos de código abierto.
-
 ---
 
 ## 🚀 Habilidades
@@ -49,7 +46,7 @@ Sistema SCADA para la monitorización y control de procesos de elaboración de c
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertocanoe/)
 
 
-📧 **Email:** ```rcanoestevez@proton.me```
+📧 **Email:** **rcanoestevez@proton.me**
 
 ---
 
@@ -62,4 +59,4 @@ Sistema SCADA para la monitorización y control de procesos de elaboración de c
 
 ---
 
-*¡Gracias por visitar mi perfil!
+*¡Gracias por visitar mi perfil!*
