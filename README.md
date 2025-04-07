@@ -46,8 +46,7 @@ Sistema SCADA para la monitorización y control de procesos de elaboración de c
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertocanoe/)
 
 
-📧 **Email:** **rcanoestevez@proton.me**
-
+📧 **Email:** [rcanoestevez@proton.me](mailto:rcanoestevez@proton.me)
 ---
 
 ## 📊 Estadísticas de GitHub
