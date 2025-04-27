@@ -49,10 +49,8 @@ Sistema SCADA para la monitorización y control de procesos de elaboración de c
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <!-- Estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=robertcanoe&show_icons=true&theme=onedark&hide_title=true&count_private=true&include_all_commits=true&hide=stars" alt="Estadísticas de GitHub" width="49%">
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertcanoe&layout=compact&theme=onedark&hide_title=true&langs_count=8" alt="Lenguajes más usados" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=robertcanoe&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertcanoe&layout=compact&theme=radical" alt="Lenguajes más usados">
 </div>
 ---
 
