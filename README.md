@@ -25,14 +25,9 @@ Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web**. Me apasiona
 
 ## 🌟 Proyectos destacados
 
-### 🔒 [Password Generator](https://github.com/robertcanoe/password-generator)
-Un generador de contraseñas aleatorias desarrollado en Python. Permite crear contraseñas seguras y personalizadas con opciones como mayúsculas, números y símbolos.  
-**Tecnologías:** Python
-
-### 👤 [User Management with MongoDB](https://github.com/robertcanoe/UserManagementWithMongoDB)
-Aplicación para gestionar usuarios con una base de datos MongoDB, diseñada con una interfaz intuitiva.  
-**Tecnologías:** C#, .NET, MongoDB, WinForms
-
+### 🖥️ [Escape Terminal](https://github.com/robertcanoe/escape-terminal)
+Juego de aventuras en terminal donde los jugadores resuelven acertijos y desafíos para escapar. Diseñado para proporcionar una experiencia inmersiva y divertida directamente desde la línea de comandos.  
+**Tecnologías:** JavaScript, CSS, HTML
 
 ### 🍺 [BrewScada](https://github.com/robertcanoe/BrewScada)
 Sistema SCADA para la monitorización y control de procesos de elaboración de cerveza. Desarrollado en C# para proporcionar una interfaz de usuario intuitiva y robusta.  
