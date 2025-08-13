@@ -1,6 +1,6 @@
 # ¡Hola, soy Roberto Cano Estévez! 👋
 
-Soy estudiante de **Primer Año de Desarrollo de Aplicaciones Web**. Me apasiona el mundo del desarrollo web, las tecnologías emergentes y la programación en general. Estoy comprometido con aprender, crear proyectos innovadores y mejorar mis habilidades día a día.
+Soy estudiante de **Segundo Año de Desarrollo de Aplicaciones Web**. Me apasiona el mundo del desarrollo web, las tecnologías emergentes y la programación en general. Estoy comprometido con aprender, crear proyectos innovadores y mejorar mis habilidades día a día.
 
 ---
 
