@@ -4,7 +4,7 @@ Soy estudiante de **Segundo Año de Desarrollo de Aplicaciones Web**. Me apasion
 
 ---
 
-## 🚀 Habilidades
+## Habilidades
 
 - **Lenguajes:** Python, C#, HTML, CSS, JavaScript  
 - **Frameworks y tecnologías:** .NET, MongoDB, WinForms  
@@ -23,36 +23,21 @@ Soy estudiante de **Segundo Año de Desarrollo de Aplicaciones Web**. Me apasion
 
 ---
 
-## 🌟 Proyectos destacados
+## Proyectos destacados
 
-### 🖥️ [Escape Terminal](https://github.com/robertcanoe/escape-terminal)
+### [Escape Terminal](https://github.com/robertcanoe/escape-terminal)
 Juego de aventuras en terminal donde los jugadores resuelven acertijos y desafíos para escapar. Diseñado para proporcionar una experiencia inmersiva y divertida directamente desde la línea de comandos.  
 **Tecnologías:** JavaScript, CSS, HTML
 
-### 🍺 [BrewScada](https://github.com/robertcanoe/BrewScada)
+### [BrewScada](https://github.com/robertcanoe/BrewScada)
 Sistema SCADA para la monitorización y control de procesos de elaboración de cerveza. Desarrollado en C# para proporcionar una interfaz de usuario intuitiva y robusta.  
 **Tecnologías:** C#, MongoDB, WinForms, .NET
 
 ---
 
-## 📫 Conéctate conmigo
+## Conéctate conmigo
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/robertcano_)
-[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/robertcano__)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertocanoe/)
 
 
-📧 **Email:** [rcanoestevez@proton.me](mailto:rcanoestevez@proton.me)
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertcanoe&show_icons=true&theme=onedark&hide_title=true&count_private=true&include_all_commits=true&cache_bust=123" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertcanoe&layout=compact&theme=onedark&hide_title=true&langs_count=8" alt="Lenguajes más usados">
-</div>
-
----
-
-*¡Gracias por visitar mi perfil!*
+**Email:** [rcanoestevez@proton.me](mailto:rcanoestevez@proton.me)
