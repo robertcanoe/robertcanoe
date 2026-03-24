@@ -1,4 +1,6 @@
-<h1 align="center">¡Hola, soy Roberto Cano Estévez! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola%2C+soy+Roberto+Cano+Est%C3%A9vez!+%F0%9F%91%8B;Full-Stack+Developer;Industrial+Automation+%F0%9F%A4%96;Deuser+%2F+Indra+Group" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <b>Full-Stack Developer · Industrial Automation · 2º DAW @ IES Gran Capitán · Deuser / Indra Group</b>
@@ -22,7 +24,7 @@ Soy desarrollador Full-Stack de **Almódovar del Río, Córdoba** 🇪🇸, actu
 Me apasiona construir soluciones robustas tanto en la web como en entornos industriales: desde aplicaciones Angular/React hasta sistemas SCADA, integración OPC UA y programación de robots KUKA. Siempre buscando el código más limpio, los principios SOLID y las mejores prácticas de la industria.
 
 - 🏭 **Actualmente en:** Software Factory OT — Deuser / Indra Group
-- 🤖 **Especializándome en:** KUKA Robotics (KMR, Sunrise Workbench), SCADA, OPC UA
+- 🤖 **Especializacióndome en:** KUKA Robotics (KMR, Sunrise Workbench), SCADA, OPC UA
 - 🌱 **Aprendiendo:** Microservicios, arquitectura limpia en .NET Core, Angular Signals
 - 💬 **Pregúntame sobre:** C# · .NET Core · Angular · React · Docker · automatización industrial
 
@@ -77,6 +79,10 @@ Me apasiona construir soluciones robustas tanto en la web como en entornos indus
 
 ## 🚀 Proyectos destacados
 
+### 🏺 [Museo Etnológico Almódovar del Río](https://github.com/robertcanoe/museo-etnologico-web)
+Página web oficial del **Museo Etnológico de Almódovar del Río**, mi pueblo. Historia, tradiciones y cultura local a través de galerías, exposiciones y eventos. Disponible en producción en [museoetnologico.es](https://museoetnologico.es).  
+`TypeScript` · `Angular` · `HTML` · `CSS`
+
 ### 🍺 [BrewScada](https://github.com/robertcanoe/BrewScada)
 Sistema **SCADA** para monitorización y control de procesos de elaboración de cerveza. Interfaz industrial robusta con visualización de datos en tiempo real.  
 `C#` · `.NET` · `MongoDB` · `WinForms`
@@ -90,7 +96,7 @@ Juego de aventuras en terminal donde los jugadores resuelven acertijos para esca
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertcanoe&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Estadísticas%20de%20Roberto&card_width=390" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robertcanoe&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Estad%C3%ADsticas%20de%20Roberto&card_width=390" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertcanoe&layout=compact&theme=dracula&hide_border=true&title_color=00F2FF&text_color=F0F0EC" />
 </p>
