@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola%2C+soy+Roberto+Cano+Est%C3%A9vez!+%F0%9F%91%8B;Full-Stack+Developer;Industrial+Automation+%F0%9F%A4%96;Deuser+%2F+Indra+Group" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Roberto+Cano+Estevez!+%F0%9F%91%8B;Full-Stack+Developer;Industrial+Automation+%F0%9F%A4%96;Deuser+%2F+Indra+Group" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <b>Full-Stack Developer · Industrial Automation · 2º DAW @ IES Gran Capitán · Deuser / Indra Group</b>
@@ -23,10 +24,10 @@ Soy desarrollador Full-Stack de **Almódovar del Río, Córdoba** 🇪🇸, actu
 
 Me apasiona construir soluciones robustas tanto en la web como en entornos industriales: desde aplicaciones Angular/React hasta sistemas SCADA, integración OPC UA y programación de robots KUKA. Siempre buscando el código más limpio, los principios SOLID y las mejores prácticas de la industria.
 
-- 🏭 **Actualmente en:** Software Factory OT — Deuser / Indra Group
-- 🤖 **Especializacióndome en:** KUKA Robotics (KMR, Sunrise Workbench), SCADA, OPC UA
-- 🌱 **Aprendiendo:** Microservicios, arquitectura limpia en .NET Core, Angular Signals
-- 💬 **Pregúntame sobre:** C# · .NET Core · Angular · React · Docker · automatización industrial
+- **Actualmente en:** Software Factory OT — Deuser / Indra Group
+- **Especializacióndome en:** KUKA Robotics (KMR, Sunrise Workbench), SCADA, OPC UA
+- **Aprendiendo:** Microservicios, arquitectura limpia en .NET Core, Angular Signals
+- **Pregúntame sobre:** C# · .NET Core · Angular · React · Docker · automatización industrial
 
 ---
 
@@ -40,6 +41,7 @@ Me apasiona construir soluciones robustas tanto en la web como en entornos indus
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### Backend
@@ -48,8 +50,7 @@ Me apasiona construir soluciones robustas tanto en la web como en entornos indus
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP_Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ### Bases de datos
 <p>
@@ -77,7 +78,7 @@ Me apasiona construir soluciones robustas tanto en la web como en entornos indus
 
 ---
 
-## 🚀 Proyectos destacados
+## **Proyectos destacados**
 
 ### 🏺 [Museo Etnológico Almódovar del Río](https://github.com/robertcanoe/museo-etnologico-web)
 Página web oficial del **Museo Etnológico de Almódovar del Río**, mi pueblo. Historia, tradiciones y cultura local a través de galerías, exposiciones y eventos. Disponible en producción en [museoetnologico.es](https://museoetnologico.es).  
@@ -99,10 +100,4 @@ Juego de aventuras en terminal donde los jugadores resuelven acertijos para esca
   <img src="https://github-readme-stats.vercel.app/api?username=robertcanoe&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Estad%C3%ADsticas%20de%20Roberto&card_width=390" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertcanoe&layout=compact&theme=dracula&hide_border=true&title_color=00F2FF&text_color=F0F0EC" />
-</p>
-
----
-
-<p align="center">
-  <i>"El código limpio no se escribe siguiendo reglas. Se escribe con artesanía." — Robert C. Martin</i>
 </p>
